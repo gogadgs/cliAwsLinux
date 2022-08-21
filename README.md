@@ -1,4 +1,1 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
-
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+Pojeto forkado ao denilson bonati da Dio  com o intuito de aprender a integrar  dados com servidores web como AWS da amazon, SGBDS(sequelize , mas utilizado o workbench do MYSQL da oracle  maquinas virtuais linuz , entretanto o utilizado foi uma distribuição linux dentro do windows com o aplicativo / gui(Grafic User Interface) docker hub mais o testador de ips loader.io para averiguar os dashboards de requisição de protocolos de informações geradas.
